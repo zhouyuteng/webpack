@@ -1,0 +1,17 @@
+.idea
+.idea/
+.DS_Store
+node_modules/
+.project
+
+src/config/*.tmp
+src/config/env.js
+*.log
+
+public/
+
+app/views/
+
+package-lock.json
+
+html/
